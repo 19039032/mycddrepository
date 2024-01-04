@@ -7,6 +7,6 @@ class fact{
 	}
 	public static void main(String[] args){
 		int f=factorial(7);
-		System.out.println("5 factorial is "+f);
+		System.out.println("7 factorial is "+f);
 	}
 }
